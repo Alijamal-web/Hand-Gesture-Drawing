@@ -44,6 +44,7 @@ Allow access to your webcam and use your hand gestures to draw on the screen.
 
 Here is a short video demonstrating how the project works:
 
+https://github.com/user-attachments/assets/9bd3d4ed-3dce-4a49-9eea-8231446e4d19
 
 
 ## Author
