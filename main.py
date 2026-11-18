@@ -25,7 +25,7 @@ while True:
     ret, frame = cap.read()
 
     if not ret:
-        print("Камера не работает")
+        print("Camera does not work")
         break
 
     # Зеркальное изображение
